@@ -1,3 +1,11 @@
+/*************************************************
+Author:zhengjian
+Date:2013-08-25
+Description:POJ1753
+Time:
+Memory:
+**************************************************/
+
 #include <iostream>
 #include <stack>
 using namespace std;

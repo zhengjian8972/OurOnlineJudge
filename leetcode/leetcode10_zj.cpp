@@ -1,3 +1,11 @@
+/*************************************************
+Author:zhengjian
+Date:2013-08-25
+Description:leetcode10
+Time:
+Memory:
+**************************************************/
+
 #include<iostream>
 #define N 10001
 #include<string.h>

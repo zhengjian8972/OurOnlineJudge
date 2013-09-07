@@ -1,3 +1,11 @@
+/*************************************************
+Author:zhengjian
+Date:2013-08-25
+Description:leetcode12
+Time:
+Memory:
+**************************************************/
+
 #include<iostream>
 #define N 10001
 #include<vector>
