@@ -1,3 +1,6 @@
 # filter all except for .cpp
 *
 !*.cpp
+!*.c
+!*.java
+!*.JAVA
