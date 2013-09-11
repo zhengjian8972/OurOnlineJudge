@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1367579024 source:c:\users\c\workspace\codeblocks\poj1002\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+
