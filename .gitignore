@@ -1,5 +1,14 @@
 # filter all except for .cpp
+
 *
+
+# allow folders
+!*/
+
+# allow ignore file
+!.gitignore
+
+# allow source code
 !*.cpp
 !*.c
 !*.java
